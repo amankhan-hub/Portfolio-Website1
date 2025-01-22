@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio website project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "your-roll-number",
+  "license": "ISC"
+}
